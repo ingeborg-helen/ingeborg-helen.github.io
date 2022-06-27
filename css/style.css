@@ -1,0 +1,9 @@
+/*Font og farger inspirert av oslobysykkel.no*/
+body {
+    background-color: #ffffff;
+    color: #0b163f;
+    font-family: 'Urban Grotesk', 'Helvetica Neue', sans serif;
+}
+h1 {
+    color: #005ec9
+}
